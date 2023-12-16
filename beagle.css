@@ -1,0 +1,50 @@
+* {
+    margin: 10px;
+    padding: 0;
+
+}
+
+.top-section {
+    border: 2px solid #000;
+    padding: 10px;
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+.headings {
+    text-decoration: underline;
+}
+
+.image-section img {
+    width: 1051px;
+    height: 762px;
+    flex-shrink: 0;
+
+}
+
+.image-section {
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.trivia-section {
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+
+}
